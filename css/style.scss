@@ -1,18 +1,9 @@
 @namespace xlink 'http://www.w3.org/1999/xlink';
 
 #header {
-	background-image: linear-gradient(#E04641,
-		#E04641 16.67%,
-		#DE7E41 16.67%,
-		#DE7E41 33.33%,
-		#E4D56F 33.33%,
-		#E4D56F 50%,
-		#55B85F 50%,
-		#55B85F 66.67%,
-		#2473B5 66.67%,
-		#2473B5 83.33%,
-		#6F5DA5 83.33%,
-		#6F5DA5
+	background-image: linear-gradient(
+		#0066cc 50%,
+		#ffcc00 50%
 	) !important;
 	background-color: initial;
 }
@@ -27,18 +18,9 @@ input:not([type='range']).primary,
 textarea.primary,
 div[contenteditable='true'].primary,
 .pager li a.primary {
-	background-image: linear-gradient(#E04641,
-		#E04641 16.67%,
-		#DE7E41 16.67%,
-		#DE7E41 33.33%,
-		#E4D56F 33.33%,
-		#E4D56F 50%,
-		#55B85F 50%,
-		#55B85F 66.67%,
-		#2473B5 66.67%,
-		#2473B5 83.33%,
-		#6F5DA5 83.33%,
-		#6F5DA5
+	background-image: linear-gradient(
+		#0066cc 50%,
+		#ffcc00 50%
 	) !important;
 	background-color: initial;
 	color: white;
