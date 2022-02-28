@@ -1,4 +1,4 @@
-# Slava Ukraini :flag-ua:
+# Slava Ukraini 🇺🇦
 
 ![screenshot](screenshot.png)
 
