@@ -1,8 +1,8 @@
 <?php
 /**
- * This file is part of the Pride App
+ * This file is part of the Ukraini App
  * and licensed under the AGPL.
  */
 use OCP\Util;
 
-Util::addStyle('pride', 'style');
+Util::addStyle('ukraini', 'style');
