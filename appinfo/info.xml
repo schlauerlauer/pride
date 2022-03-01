@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
-<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
-      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <id>ukraini</id>
     <name>Ukraini</name>
-    <summary>Show your pride to the world</summary>
-    <description><![CDATA[Diversity and inclusion are what makes the world worth living in! Let&#39;s show some pride!]]></description>
+    <summary>Show your support to the world</summary>
+    <description>
+        <![CDATA[Let&#39;s show your support!]]>
+    </description>
     <version>0.0.4</version>
     <licence>agpl</licence>
     <author mail="xntqdm@pm.me" homepage="https://github.com/schlauerlauer/ukraini">Janek Lauer</author>
@@ -13,6 +14,6 @@
     <bugs>https://github.com/schlauerlauer/ukraini/issues</bugs>
     <screenshot>https://raw.githubusercontent.com/schlauerlauer/ukraini/master/screenshot.png</screenshot>
     <dependencies>
-        <nextcloud min-version="15" max-version="22"/>
+        <nextcloud min-version="15" max-version="22" />
     </dependencies>
 </info>
