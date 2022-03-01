@@ -8,27 +8,6 @@
 	background-color: initial;
 }
 
-
-
-div.select2-drop .select2-search input.primary,
-select.primary,
-button.primary,
-.button.primary,
-input:not([type='range']).primary,
-textarea.primary,
-div[contenteditable='true'].primary,
-.pager li a.primary {
-	background-image: linear-gradient(
-		#0066cc 50%,
-		#ffcc00 50%
-	) !important;
-	background-color: initial;
-	color: white;
-	text-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
-	border-color: rgba(127,127,127, .7);
-}
-
-
 /* Header icons get drop shadow for visibility */
 #header .logo.logo-icon,
 #header .header-right .header-menu__trigger,
