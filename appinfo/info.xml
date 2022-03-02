@@ -14,6 +14,6 @@
     <bugs>https://github.com/schlauerlauer/ukraini/issues</bugs>
     <screenshot>https://raw.githubusercontent.com/schlauerlauer/ukraini/master/screenshot.png</screenshot>
     <dependencies>
-        <nextcloud min-version="15" max-version="22" />
+        <nextcloud min-version="15" max-version="23"/>
     </dependencies>
 </info>
